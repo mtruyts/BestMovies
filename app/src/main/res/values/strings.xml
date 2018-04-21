@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Movies</string>
+    <string name="login">entrar</string>
+    <string name="cad">cadastro</string>
+    <string name="digite_email">Digite seu email:</string>
+    <string name="tel">Digite seu telefone:</string>
+    <string name="senha">Digite sua senha:</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="local">Local</string>
+    <string name="perfil">perfil</string>
+    <string name="discipulos">Discípulandos</string>
+    <string name="sobre">igreja</string>
+    <string name="discipulandos">discipulandos</string>
+    <string name="discipuladores">discipuladores</string>
+    <string name="discipuladoresM">Discipuladores</string>
+    <string name="nome">nome</string>
+    <string name="email">email</string>
+    <string name="fatec">fatec.sp.gov.br</string>
+    <string name="title_activity_main2">Movies</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
