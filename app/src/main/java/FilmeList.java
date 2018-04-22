@@ -1,5 +1,3 @@
-package com.example.lucas.myapplication;
-
 import java.util.LinkedList;
 import java.util.List;
 

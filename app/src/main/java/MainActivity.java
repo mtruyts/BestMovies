@@ -1,5 +1,3 @@
-package com.example.lucas.myapplication;
-
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;

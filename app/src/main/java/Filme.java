@@ -1,5 +1,3 @@
-package com.example.lucas.myapplication;
-
 public class Filme {
     private String filme;
     private String urls;

@@ -1,5 +1,3 @@
-package com.example.lucas.myapplication;
-
 import android.os.StrictMode;
 
 import org.json.JSONArray;
