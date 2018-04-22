@@ -5,7 +5,7 @@ APP for android Plataform
 ![Diagrama](https://github.com/mtruyts/BestMovies/blob/master/Documentos/Diagrama.png)
 
 #Telas
-![Tela Incial]<p align="center">(https://github.com/mtruyts/BestMovies/blob/master/Documentos/Print_01.jpg)</p>
+![Tela Incial](<p align="center">https://github.com/mtruyts/BestMovies/blob/master/Documentos/Print_01.jpg</p>)
 
 ![Tela Incial](https://github.com/mtruyts/BestMovies/blob/master/Documentos/Print_02.jpg)
 
