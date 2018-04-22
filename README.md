@@ -6,8 +6,7 @@ APP for android Plataform
 
 #Telas
 
-![Tela Incial](https://github.com/mtruyts/BestMovies/blob/master/Documentos/Print_01.jpg https://github.com/mtruyts/BestMovies/blob/master/Documentos/Print_02.jpg)
-
+![Tela Incial](https://github.com/mtruyts/BestMovies/blob/master/Documentos/Print_01.jpg)
 ![Tela Incial](https://github.com/mtruyts/BestMovies/blob/master/Documentos/Print_02.jpg)
 
 ![Tela Incial](https://github.com/mtruyts/BestMovies/blob/master/Documentos/Print_03.jpg)
