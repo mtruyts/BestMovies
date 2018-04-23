@@ -2,9 +2,8 @@ public class Filme {
     private String filme;
     private String urls;
     private String nota;
-    private String location;
 
-    public Filme(String filme, String urls, String nota, String location){
+    public Filme(String filme, String urls, String nota){
         this.filme = filme;
         this.urls=urls;
         this.nota=nota;
@@ -21,5 +20,4 @@ public class Filme {
 
     public String getNota(){ return this.nota;}
 
-    public String getLocation(){return this.location;}
 }

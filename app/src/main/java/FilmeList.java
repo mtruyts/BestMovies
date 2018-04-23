@@ -48,12 +48,4 @@ public class FilmeList {
         return "Not found Nota";
     }
 
-    public String returnLocation(String nome) {
-        for (Filme cort : filmes) {
-            if (cort.getFilme().equals(nome)) {
-                return cort.getLocation();
-            }
-        }
-        return "Not found location";
     }
-}

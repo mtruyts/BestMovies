@@ -28,7 +28,6 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     FilmeList cuts = new FilmeList();
-    String locations="-34, 151";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
