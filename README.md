@@ -2,7 +2,7 @@
 APP for android Plataform
 
 #Diagrama
-![Diagrama](https://github.com/mtruyts/BestMovies/blob/master/Documentos/Diagrama.png)
+![Diagrama](https://github.com/mtruyts/BestMovies/blob/master/Documentos/Diagrama_2.png)
 
 #Telas
 
