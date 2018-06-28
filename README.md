@@ -11,3 +11,7 @@ APP for android Plataform
 
 ![Tela Incial](https://github.com/mtruyts/BestMovies/blob/master/Documentos/Print_03.jpg)
 ![Tela Incial](https://github.com/mtruyts/BestMovies/blob/master/Documentos/Print_04.jpg)
+
+![Tela Incial](https://github.com/mtruyts/BestMovies/blob/master/Documentos/Print_06.jpg)
+![Tela Incial](https://github.com/mtruyts/BestMovies/blob/master/Documentos/Print_05.jpg)
+
